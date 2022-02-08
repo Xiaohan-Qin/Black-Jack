@@ -13,11 +13,10 @@ run ```python black_jack.py```
 
 ## Program in Action
 When running the program, it would look like this:
-![](screenshots/Capture1.PNG)
-![](screenshots/Capture2.PNG)
+![](screenshots/Capture7.PNG)
+![](screenshots/Capture8.PNG)
 
-Quit game:
-![](screenshots/Capture3.PNG)
+Hopes you win the game too :)
 
 
 
